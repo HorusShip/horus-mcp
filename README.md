@@ -60,4 +60,4 @@ desktop is closed they fail with `desktop_offline` and you get a notification to
 Resources: the OpenAPI document, your account, today's dashboard, recent and held sales,
 recent listings. Prompts: `daily_check_in`, `triage_held_sales`, `source_to_list`.
 
-Pair the server with the [agent skills](../skills) for best results.
+Pair the server with the [agent skills](https://github.com/HorusShip/horus-skills) for best results.
